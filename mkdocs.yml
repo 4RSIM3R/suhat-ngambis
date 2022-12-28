@@ -1,4 +1,8 @@
 site_name: "Suhat Ngambis"
+site_author: "Warga SMK SUHAT"
+copyright: "Copyright &copy; 2022 - Selamanya Warga SMK SUHA"
+repo_url: https://github.com/4RSIM3R/suhat-ngambis
+repo_name: 4RSIM3R/suhat-ngambis
 theme:
   name: material
 nav:
