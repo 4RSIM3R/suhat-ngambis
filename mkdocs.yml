@@ -1,0 +1,8 @@
+site_name: "Suhat Ngambis"
+theme:
+  name: material
+nav:
+  - Home: index.md
+  # - Competiton: competition.md
+  # - Idea: idea.md
+  - Contributing: contributing.md
