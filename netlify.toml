@@ -1,5 +1,5 @@
 [build]
-  command = "mkdocs build"
+  command = "./build.sh"
   publish = "site"
 
 [build.environment]
