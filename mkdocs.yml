@@ -3,6 +3,6 @@ theme:
   name: material
 nav:
   - Home: index.md
-  # - Competiton: competition.md
-  # - Idea: idea.md
+  - Competition: "competition/index.md"
+  - Idea: "idea/index.md"
   - Contributing: contributing.md
